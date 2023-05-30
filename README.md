@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PRIVACY POLICY</title>
+  <title>PRIVACY POLICY - Wise Buy</title>
 </head>
 <body>
   <h1>PRIVACY POLICY - Wise Buy</h1>
